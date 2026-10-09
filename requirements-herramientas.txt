@@ -1,0 +1,4 @@
+# Herramientas de seguridad (no son parte de la app)
+pip-audit
+bandit
+cryptography

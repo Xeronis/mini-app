@@ -1,0 +1,9 @@
+.env
+logs/
+.venv/
+__pycache__/
+*.pyc
+6-retiro/llave_respaldo.key
+6-retiro/respaldo_final.enc
+5-monitoreo/alertas.log
+5-monitoreo/bloqueadas.txt
